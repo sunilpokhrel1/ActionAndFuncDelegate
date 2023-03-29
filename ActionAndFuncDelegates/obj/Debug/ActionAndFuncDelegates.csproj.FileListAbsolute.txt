@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\ActionAndFuncDelegates\bin\Debug\ActionAndFuncDelegates.exe.config
+C:\Users\USER\source\repos\ActionAndFuncDelegates\bin\Debug\ActionAndFuncDelegates.exe
+C:\Users\USER\source\repos\ActionAndFuncDelegates\bin\Debug\ActionAndFuncDelegates.pdb
+C:\Users\USER\source\repos\ActionAndFuncDelegates\obj\Debug\ActionAndFuncDelegates.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\ActionAndFuncDelegates\obj\Debug\ActionAndFuncDelegates.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\ActionAndFuncDelegates\obj\Debug\ActionAndFuncDelegates.exe
+C:\Users\USER\source\repos\ActionAndFuncDelegates\obj\Debug\ActionAndFuncDelegates.pdb
